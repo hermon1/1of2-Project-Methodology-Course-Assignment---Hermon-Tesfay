@@ -2,5 +2,4 @@
 "Lofthus frukt og saft" Gantt chart
 
 
-
- Gantt chart for the Project-Methodology-Course-Assignment Lofthus frukt og saft by Hermon Tesfay
+ Gantt chart for the AW13 Project-Methodology-Course-Assignment Lofthus frukt og saft by Hermon Tesfay
